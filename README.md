@@ -1,5 +1,8 @@
 ## 👋 Hi , I'm Dawei 
 
+-  🔭 I'm currently focused on full-stack development and Vibe Coding.
+
+  
 <!--
 **dawei1898/dawei1898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
